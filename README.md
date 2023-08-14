@@ -2,7 +2,7 @@
 Hi! I'm front end developer from Lutsk, Ukraine 🇺🇦
 
 
-# 🌐 Socials:
+# 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oleh-stepaniuk-526661187/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@user-ln9ps9sx6q) 
 
