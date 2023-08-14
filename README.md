@@ -1,5 +1,5 @@
-# 👋 Welcome!
-Hi! I'm front end developer from Lutsk, Ukraine 🇺🇦
+# Hello 👋
+I'm front end developer from Lutsk, Ukraine 🇺🇦
 
 <img src="https://media.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" alt="alt text" width="100px">
 
