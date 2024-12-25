@@ -24,7 +24,7 @@ I'm front end developer from Lutsk, Ukraine 🇺🇦
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleh-stepaniuk-526661187/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@user-ln9ps9sx6q) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@%D0%9E%D0%BB%D0%B5%D0%B3%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD%D1%8E%D0%BA-%D1%8C7%D1%87) 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
