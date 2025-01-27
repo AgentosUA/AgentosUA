@@ -1,7 +1,7 @@
 # Hello 👋
 I'm front end developer from Lutsk, Ukraine 🇺🇦
 
-<img src="https://media.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" alt="alt text" width="100px">
+<img src="https://oiiaoiia.org/storage/2024/10/Cat360spin_memehdf.gif" alt="alt text" width="250px">
 
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
